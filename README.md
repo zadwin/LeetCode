@@ -20,4 +20,8 @@
 - git push -u origin main
 - git push
 
+### 如果是其他分支或者是在github上修改了文件，那么我们就需要将远程的文件提取下来。
+
+- git pull
+
 `备注`：可以通过 git status 查看当前本地仓库的提交情况、通过 git log 查看提交记录。
